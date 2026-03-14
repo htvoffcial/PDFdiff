@@ -1,3 +1,7 @@
+<select id="language-select">
+  <option value="ja">日本語</option>
+  <option value="en">English</option>
+</select>
 # PDFdiff
 
 JavaScriptでローカル実行できるオンライン差分チェッカー
