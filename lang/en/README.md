@@ -1,8 +1,9 @@
 <details>
-<summary>English</summary>
-  
-[日本語](/README.md)
-  
+<summary>言語 / Language</summary>
+
+- [日本語](/README.md)
+- English
+
 </details>
 
 
