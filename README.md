@@ -1,8 +1,7 @@
-<select id="language-select">
-  <option value="ja">日本語</option>
-  <option value="en">English</option>
-</select>
-
+<details>
+<summary>日本語</summary>
+[English](lang/en/README.md)
+</details>
 
 # PDFdiff
 
