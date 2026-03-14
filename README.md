@@ -1,6 +1,8 @@
 <details>
 <summary>日本語</summary>
+  
 [English](lang/en/README.md)
+
 </details>
 
 # PDFdiff
